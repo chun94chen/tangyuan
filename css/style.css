@@ -14,7 +14,7 @@ body{
 }
 /*-- banner --*/
 .banner{
-	background: url(../images/1.jpg) no-repeat 0px 0px;
+	background: url(../images/IMG_6217_2.jpg) no-repeat 0px 0px;
     background-size: cover;
     padding: 0em 0 4em;
 }
@@ -603,7 +603,7 @@ figure.effect-chico:hover p {
     float: left;
     width: 80%;
 }
-.icon-left i.fa.fa-cog,.icon-left i.fa.fa-heart,.icon-left i.fa.fa-paper-plane,.icon-left i.fa.fa-user,.icon-left i.fa.fa-thumbs-up,.icon-left i.fa.fa-bell{
+.icon-left i.fa.fa-cog, i.fa.fa-mars, i.fa.fa-coffee, i.fa.fa-eye, i.fa.fa-info, i.fa.fa-ban, i.fa.fa-cloud, i.fa.fa-leaf, i.fa.fa-lock, i.fa.fa-globe, i.fa.fa-times, i.fa.fa-bath,.icon-left i.fa.fa-heart,.icon-left i.fa.fa-paper-plane,.icon-left i.fa.fa-user,.icon-left i.fa.fa-thumbs-up,.icon-left i.fa.fa-bell{
     color: #ffffff;
     font-size: 2em;
 }
@@ -620,7 +620,16 @@ figure.effect-chico:hover p {
     margin: 0;
 }
 .agileits-icon-grid:nth-child(2){
+  margin:2em 0;
+}
+.agileits-icon-grid:nth-child(3){
 	margin:2em 0;
+}
+.agileits-icon-grid:nth-child(4){
+  margin:2em 0;
+}
+.agileits-icon-grid:nth-child(5){
+  margin:2em 0;
 }
 
 /* Radial Out */
